@@ -1,9 +1,10 @@
-# Exposición-JWT
-Integrantes:
-- Javier
-- Marvin
-- Kevin
+IMPORTANTE
+Crear un archivo .env en la raiz del proyecto
+y agregarle las variables de entorno
 
-Material de exposición
+SERVER_PORT= (tu puerto ejemplo '8080')  
+DB_PATH= (tu archivo .db en la raiz del proyecto, ejemplo './tudb.db')
 
-<a href="https://view.genial.ly/652ad0058583d200111409ad/learning-experience-didactic-unit-jwt">Consideraciones de seguridad para JWT</a>
+PARA CORRER
+1. npm i (Para descargar dependencias)
+3. npm start (Para correr la api)
